@@ -169,9 +169,10 @@
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-7.1.4.tgz#59303e719937f774d9266a5e5f498ba254e0fe7b"
 
-"@angular/platform-browser-dynamic@~7.1.0":
-  version "7.1.4"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.1.4.tgz#e76a5a267caf27d17bf46d16f009cd9c68a8dfd3"
+"@angular/platform-browser-dynamic@~7.2.16":
+  version "7.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.2.16.tgz#57f7f11cece3a3109a821d20b3456d94419718d4"
+  integrity sha512-xsQ0qB54h7oY5UATK9VW25Y4dvG7uQe9+X4cf/GWB+R3eCzP8J9Ekxs4VU9y2ujlQkD64PV8gpKu0FHFh7wjIQ==
   dependencies:
     tslib "^1.9.0"
 
